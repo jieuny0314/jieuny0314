@@ -38,6 +38,9 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jieunny)](https://jieunny.tistory.com/)
 <br />
 <br />
+<br />
+<br />
+
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=foote" />
 </div>
